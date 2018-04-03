@@ -16,5 +16,6 @@ class App < Sinatra::Base
   
   get "/favorite-song" do
     "My favorite song is currently 'One More Light' by Linkin Park"
+  end
   
 end
